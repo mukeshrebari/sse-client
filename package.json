@@ -1,0 +1,17 @@
+{
+  "name": "@ubolt/sse-client",
+  "version": "1.0.0",
+  "description": "CLI that streams any Server-Sent Events endpoint continuously, with auto-reconnect.",
+  "type": "module",
+  "bin": {
+    "sse": "./sse.mjs"
+  },
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}
