@@ -64,3 +64,7 @@ npm test
 ```
 
 The tests start a local SSE server. They cover the parser (CRLF line endings, chunk splits, multi-line data, `retry:`), GET with headers, POST with a body, `Last-Event-ID` resume, 4xx/204/5xx handling and the idle timeout.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).

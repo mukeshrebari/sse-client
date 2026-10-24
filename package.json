@@ -13,5 +13,5 @@
     "node": ">=18"
   },
   "private": true,
-  "license": "UNLICENSED"
+  "license": "MIT"
 }
